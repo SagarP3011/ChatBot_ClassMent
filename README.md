@@ -1,4 +1,4 @@
-# ChatBot_ClassMent
+# ChatBot
 
 # RAG-Based Chatbot for Job Role Learning
 This project implements a Retrieval-Augmented Generation (RAG) chatbot that helps users retrieve relevant learning resources for different job roles based on a PDF document. It uses FAISS for vector search, LLM (Mistral) for response generation, and LangChain for retrieval and processing.
